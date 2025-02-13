@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    width: 100%;
+    background-color: #79b86c;
+}
+
+h1 {
+    border-bottom: #1e4517 solid .15rem;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+    font-style: italic;
+    color: #FFFFFF;
+}
+
+#connect {
+    padding: .5em;
+    margin: 1rem;
+    background-color: #1e4517;
+    color: #FFFFFF;
+}
+
+#silence {
+    padding: .5em;
+    margin: 1rem;
+    background-color: #1e4517;
+    color: #FFFFFF;
+}
